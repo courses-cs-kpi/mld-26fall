@@ -14,12 +14,12 @@ title: Вступ
   : [[Деталі](https://ykochura.github.io/mld-kpi/practice/Lab1.pdf)]
     : **Дедлайн**:  28 вересня 
 
-<!--23 вер
+21 вер
 : **ПР #2**{: .label .label-purple} **Згорткові мережі**
   : [[Деталі](https://ykochura.github.io/mld-kpi/practice/Lab2.pdf)]
-    : **Дедлайн**:  14 жовтня
+    : **Дедлайн**:  12 жовтня
 
-07 жов
+<!--07 жов
 : **Лекція 2**{: .label .label-green } **Увага та трансформери**
   : [[HML](https://ykochura.github.io/mld-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/mld-kpi/pdf/lecture2.pdf)]
 
