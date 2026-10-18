@@ -28,6 +28,10 @@ title: Вступ
   : [[Деталі](https://ykochura.github.io/mld-kpi/practice/Lab3.pdf)]
     : **Дедлайн**:  02 листопада
 
+20 жов
+: **Лекція 3**{: .label .label-green } **Вступ до графових нейронних мереж**
+  : [[COLAB](https://colab.research.google.com/github/YKochura/mld-kpi/blob/main/tutor/gnn/introduction_to_graph_neural_networks.ipynb)]
+
 <!--06 лис
 : **ПР #3**{: .label .label-purple} **Увага та трансформери**
   : [[Деталі](https://ykochura.github.io/mld-kpi/practice/Lab3.pdf)]
